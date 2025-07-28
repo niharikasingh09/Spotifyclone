@@ -4,6 +4,14 @@ A lightweight and responsive web-based music player developed using HTML, CSS, a
 
 
 
+
+
+📸 Preview
+
+<img width="1910" height="1016" alt="Screenshot 2025-07-28 100852" src="https://github.com/user-attachments/assets/e48b19ca-888d-4724-9e2e-c9b8b0012c24" />
+
+
+
 🚀 Features
 
 🎧 Play & Pause songs
@@ -15,6 +23,11 @@ A lightweight and responsive web-based music player developed using HTML, CSS, a
 🎶 Dynamic audio element and UI updates
 
 📱 Responsive Design (optional)
+
+
+
+
+
 
 🛠️ Tech Stack
 
